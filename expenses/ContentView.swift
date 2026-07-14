@@ -63,7 +63,7 @@ struct ContentView: View {
                 }
             }
             
-        }.background(Color.blue.opacity(0.1))
+        }.background(Color.blue.opacity(0.2))
 
     }
 }
